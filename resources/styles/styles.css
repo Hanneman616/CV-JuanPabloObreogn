@@ -1,0 +1,31 @@
+h1{
+    color: #014296;
+}
+
+
+
+h2 {
+    color: #014296;
+    font-size: 2.5rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+    
+}
+
+h3 {
+    color: #000000;
+    font-size: 1.4rem;
+    font-weight: 400;
+    margin-bottom: 1rem;
+}
+
+.cvclass{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: rgba(29, 86, 151, 0.274);
+}
+
+hr {
+    color: #014296;
+    
+}
